@@ -90,7 +90,6 @@ function doPost (e) {
   Return error results as JSON
   https://developers.google.com/apps-script/reference/content/content-service
   */
-  catch (e) {
     return ContentService
       .createTextOutput(JSON.stringify({ 'result': 'error', 'error': e }))
       .setMimeType(ContentService.MimeType.JSON)

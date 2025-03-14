@@ -76,7 +76,6 @@ L
 M
 
    [Memory module](https://en.wikipedia.org/wiki/Memory_module) is a printed circuit board on which memory integrated circuits are mounted. Memory modules permit easy installation and replacement in electronic systems such as personal computers, workstations, and servers.
-
 N
 
   [Network interface cards (NICs)](https://www.ni.com/en-us/support/documentation/supplemental/11/best-practices-for-using-multiple-network-interfaces--nics--with.html) is a network interface controller, network adapter, or Local Area Network ( LAN) adapter. It provides network connections for devices like computers and servers.

@@ -5,7 +5,6 @@ Use pull requests to contribute to the project.
 Stick to the following format:
 
 \<details>
-<summary>[Question]</summary><br><b>
 
 [Answer]
 \</b></details>

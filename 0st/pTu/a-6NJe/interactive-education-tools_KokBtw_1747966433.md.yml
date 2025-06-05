@@ -102,7 +102,6 @@ Layout/TrailingWhitespace:
   Description: Avoid trailing whitespace.
   StyleGuide: https://github.com/bbatsov/ruby-style-guide#no-trailing-whitespace
   Enabled: false # set your editor to strip trailing whitespace on save
-
 Layout/EmptyLinesAroundClassBody:
   Description: Keeps track of empty lines around class bodies.
   Enabled: true
